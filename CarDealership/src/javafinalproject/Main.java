@@ -76,8 +76,8 @@ public class Main extends Application {
         primaryStage.show(); 
         
         btnLogin.setOnAction(e->{
-             if(txtUser.getText().equals("Harman") && pwBox.getText().
-                     equals("123Java")){ 
+             if(txtUser.getText().equals("Tester") && pwBox.getText().
+                     equals("Test123")){ 
                 dlgLogin.setTitle("Information");
                 dlgLogin.setHeaderText("Login Succesful");
                 dlgLogin.show();
