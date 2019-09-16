@@ -4,7 +4,7 @@ author @ Harman Bath
 
 GridPane{
     -fx-text-fill: red;
-    -fx-background-color:linear-gradient(red, white);
+    -fx-background-color:linear-gradient(skyblue, white);
     -fx-alignment: center;
 }
 
