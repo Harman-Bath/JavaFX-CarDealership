@@ -1,0 +1,37 @@
+/*
+author @ Harman Bath
+*/
+
+GridPane{
+    -fx-text-fill: red;
+    -fx-background-color:linear-gradient(red, white);
+    -fx-alignment: center;
+}
+
+Label{
+    -fx-font-size: 15px;
+}
+
+TextField{
+    -fx-borderstyle:solid;
+    -fx-border-color:red;
+}
+
+PasswordField{
+    -fx-borderstyle:solid;
+    -fx-border-color:red;
+}
+
+Button{
+    -fx-background-color:white;
+    -fx-text-fill:black; 
+    -fx-borderstyle: solid;
+    -fx-border-color:red; 
+    -fx-pref-width:120px;
+    -fx-pref-height:30px;
+}
+
+box2{
+    -fx-borderstyle:solid;
+    -fx-border-color:red; 
+}
